@@ -79,3 +79,8 @@ canvas1.create_window(70,170,window=button4)
 
 root.mainloop()
 ```
+## **Instructions**
+Paste the code into a Jupyter notebook window.
+Press SHIFT ENTER.
+Wait for the GUI to generate. 
+Input length in metres, click on respective box to convert to UK imperial unit.
