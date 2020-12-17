@@ -20,14 +20,12 @@ Possible unit conversion is from metre to inch, feet, yards and miles.
 ## **Tech**
 #####
 Coded with Python in Jupyter notebook
-Libraries: 
+Library List:
+pip install python-math
+tkinter should be included in Python3 onwards, if not follow this link
+https://docs.python.org/3/library/tkinter.html#module-tkinter
+```
 import math as m
 import tkinter as tk
-
-
-Some basic Git commands are:
 ```
-git status
-git add
-git commit
-```
+This site was built using [GitHub Pages](https://pages.github.com/).
