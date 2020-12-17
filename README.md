@@ -5,7 +5,7 @@
 In the UK both imperial and metric measurements are still used, often measurments are interchanged to whatever is suitable at the time. 
 For example, distance for car journeys will be in imperial miles, whereas the length of a swimming pool is in metres. The efficiency of a vehicle's engine is deteremined by mpg (miles per gallon) for engine sizes based on cc (cubic centimetres).
 #### 
-Therefore the need for a unit convertor may find many uses.
+Therefore the need for a unit converter may find many uses.
 ##### 
 This project aims at developing a user friendly application for converting units of measurement.
 ##### 
@@ -16,7 +16,7 @@ The first convertor is that of length, metric to imperial (UK) and is functionin
 ##### 
 Currently the GUI accepts input units in metre format and returns their equivalent (UK) imperial lengths by selecting the relevent button.
 Possible unit conversion is from metre to inch, feet, yards and miles.
-
+[![length.jpg](https://i.postimg.cc/tRLX0fqK/length.jpg)](https://postimg.cc/Hj9GX67z)
 ## **Tech**
 #####
 Coded with Python in Jupyter notebook
