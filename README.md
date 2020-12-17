@@ -33,7 +33,7 @@ import tkinter as tk
 ```
 
 ## **Code**
-'''
+```
 import math as m
 import tkinter as tk
 root =tk.Tk()
@@ -78,4 +78,4 @@ button4 = tk.Button(text='Miles', command=getmiles)
 canvas1.create_window(70,170,window=button4)
 
 root.mainloop()
-'''
+```
