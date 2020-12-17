@@ -34,7 +34,6 @@ import tkinter as tk
 
 ## **Code**
 '''
-# Length Convertor
 import math as m
 import tkinter as tk
 root =tk.Tk()
