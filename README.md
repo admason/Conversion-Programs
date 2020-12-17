@@ -23,9 +23,10 @@ Coded with Python in Jupyter notebook
 Library List:
 pip install python-math
 tkinter should be included in Python3 onwards, if not follow this link
-https://docs.python.org/3/library/tkinter.html#module-tkinter
+(https://docs.python.org/3/library/tkinter.html#module-tkinter)
+
+Libaries initiated with code as:
 ```
 import math as m
 import tkinter as tk
 ```
-This site was built using [GitHub Pages](https://pages.github.com/).
