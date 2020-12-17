@@ -1,2 +1,3 @@
-# Conversion-Programs
-A series of code designed to enable the user to convert measurements
+# Conversion of metrics
+## A series of code for converting units of measurements.
+
