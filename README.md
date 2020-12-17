@@ -1,8 +1,9 @@
 # **Unit Convertor**  
 ### A series of codes for converting units of measurements.
 ## **Motivation**
-##### In the UK both imperial and metric measurements are still used, often measurments are interchanged to whatever is suitable at the time. For example, distance for car journeys will be in imperial miles, whereas the length of a swimming pool is in metres. The efficiency of a vehicle's engine is deteremined by mpg (miles per gallon) for engine sizes based on cc (cubic centimetres).
-#### The need for unit conversion is applicable for many uses.
+##### In the UK both imperial and metric measurements are still used, often measurments are interchanged to whatever is suitable at the time. 
+For example, distance for car journeys will be in imperial miles, whereas the length of a swimming pool is in metres. The efficiency of a vehicle's engine is deteremined by mpg (miles per gallon) for engine sizes based on cc (cubic centimetres).
+#### There need for a unit convertor may find many uses.
 ##### This project aims at developing a user friendly application for converting units of measurement.
 ##### This project provides a learning platform for developing my coding skills. Notably the use of the tkinter library for input via a Graphic User Interface, GUI. 
 ## **Build status:** Under Development. 
