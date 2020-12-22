@@ -86,7 +86,7 @@ Wait for the GUI to generate.
 Input length in metres, click on respective box to convert to UK imperial unit.
 
 
-## **Future plan**
+## **Future improvements**
 Introduce the reverse conversion of UK imperial to metric SI measures, perhaps a flip switch between the two.
 Compile unit of measure for Area, Volume, Mass, Temperature, Pressure, etc.
 Create a slider input in the GUI.
